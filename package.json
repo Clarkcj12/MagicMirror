@@ -86,7 +86,7 @@
 		"moment": "^2.29.4",
 		"node-fetch": "^2.6.7",
 		"node-ical": "^0.15.3",
-		"socket.io": "^4.5.4"
+		"socket.io": "^4.8.0"
 	},
 	"_moduleAliases": {
 		"node_helper": "js/node_helper.js",
